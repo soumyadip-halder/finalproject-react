@@ -1,0 +1,2 @@
+export const BOOK_INIT_EVENT = "BOOK_INIT_EVENT";
+export const BOOK_SUCCESS_EVENT = "BOOK_SUCCESS_EVENT";

@@ -1,0 +1,148 @@
+/*
+This component houses the dummy seat booking data for upcoming movies
+*/
+
+const upcoming = [
+  {
+    id: 481879,
+    price: 150,
+    time: "12:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 644583,
+    price: 150,
+    time: "2:00pm",
+    date: "2021-08-11",
+    occupied: [20, 21, 30, 1, 2, 8],
+  },
+  {
+    id: 575446,
+    price: 100,
+    time: "3:00pm",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 25],
+  },
+  {
+    id: 791568,
+    price: 150,
+    time: "8:00am",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 800497,
+    price: 150,
+    time: "4:00pm",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 745881,
+    price: 150,
+    time: "6:00pm",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 861,
+    price: 150,
+    time: "9:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 611408,
+    price: 150,
+    time: "4:00pm",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 534072,
+    price: 150,
+    time: "10:00am",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 402,
+    price: 150,
+    time: "12:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 630240,
+    price: 150,
+    time: "2:00pm",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 580175,
+    price: 150,
+    time: "4:00pm",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 633954,
+    price: 150,
+    time: "9:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 581644,
+    price: 150,
+    time: "10:00pm",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 428836,
+    price: 150,
+    time: "12:00pm",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 615643,
+    price: 150,
+    time: "6:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 523936,
+    price: 150,
+    time: "8:00pm",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 635731,
+    price: 150,
+    time: "4:00pm",
+    date: "2021-08-12",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 635604,
+    price: 150,
+    time: "10:00pm",
+    date: "2021-08-10",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+  {
+    id: 650783,
+    price: 150,
+    time: "10:00am",
+    date: "2021-08-11",
+    occupied: [9, 41, 35, 11, 65, 26],
+  },
+];
+
+export default upcoming;
